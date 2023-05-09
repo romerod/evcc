@@ -292,7 +292,7 @@ title = "Įkrovimo sesija"
 [sessions]
 avgPrice = "Ø Kaina"
 co2 = "Ø CO₂"
-date = "Užbaigta"
+date = "Pabaigta"
 downloadCsv = "Atsisiųsti CSV failą"
 energy = "Įkrauta"
 loadpoint = "Įkroviklis"
